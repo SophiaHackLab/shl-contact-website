@@ -1,0 +1,18 @@
+baseurl = "https://shl.contact/"
+#baseurl = "http://localhost:1313/"
+languageCode = "en-us"
+theme = "glim-midnight"
+title = 'SHL.contact'
+
+[params]
+    title = "SHL // Sophia Hack Lab"
+    phrases = ["Hacker", "Space"]
+    links = [
+    {name = "WhatsApp", url = "https://api.whatsapp.com/send?phone=33685926988"},
+    {name = "LinkedIn", url = "https://www.linkedin.com/company/sophia-hack-lab/"},
+    {name = "Github", url = "https://github.com/SophiaHackLab"},
+    {name = "Medium", url = "https://medium.com/@sw_698"},
+    {name = "Instagram", url = "https://instagram.com/shl_sophiahacklab"},
+    {name = "Email", url = "mailto:crew@shl.contact"},
+    ]
+    background = "bg.mp4"
