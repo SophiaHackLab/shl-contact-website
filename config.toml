@@ -10,6 +10,7 @@ title = 'SHL.contact'
     links = [
     {name = "WhatsApp", url = "https://api.whatsapp.com/send?phone=33685926988"},
     {name = "LinkedIn", url = "https://www.linkedin.com/company/sophia-hack-lab/"},
+    {name = "Discord", url = "https://discord.gg/Bp2c8NaQMN"},
     {name = "Github", url = "https://github.com/SophiaHackLab"},
     {name = "Medium", url = "https://medium.com/@sw_698"},
     {name = "Instagram", url = "https://instagram.com/shl_sophiahacklab"},
